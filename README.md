@@ -14,4 +14,4 @@ En este repositorio se encuentra el workflow para la homogeneización de datos q
 
 ## Notas
 - *En caso que se hayan cambiado los nombres de los traits en el **paso 1**, será necesario cambiar tambien la columna **names** de los archivos excel metadatos y unidades. Tener en cuenta también que será necesario indicar si se tratan o no de "traits" y si son "numeric" o "character" en el archivo metadatos*.
-- *Los pasos 2-4 se tiene que repetir tantas veces como archivos a homogeneizar. Sin embargo, sólo deben resultar un único archivo metadatos.xlsx y un único archivo unidades.xlsx*.
+- *Los pasos 2-4 se tiene que repetir tantas veces como archivos a homogeneizar. Sin embargo, sólo debe resultar un único archivo metadatos.xlsx y un único archivo unidades.xlsx*.
